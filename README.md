@@ -1,0 +1,2 @@
+# logo
+logo.rustfunc.com
